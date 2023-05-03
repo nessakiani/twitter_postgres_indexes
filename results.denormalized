@@ -8,5 +8,5 @@ sql.denormalized/05.sql pass
 
 real	0m3.618s
 user	0m0.566s
-sys 0m0.383s
+sys	0m0.383s
 
